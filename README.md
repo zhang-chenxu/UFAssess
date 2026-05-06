@@ -12,7 +12,7 @@ Datasets downloading URL:
 After downloading the above dataset to /test_set/, please use the corresponding processing code in /dataset_preparation/ for it.
 
 
-# Urban waterlogging assessment
+# Urban flooding assessment
 
 ## Prepare checkpoints
 Download the [Adapted SAM2 Model](https://drive.google.com/file/d/198xdKX893UYHc7WN7Z-JT9cui5UETiKW/view?usp=drive_link) to /checkpoints/.
@@ -20,7 +20,7 @@ Download the [Adapted SAM2 Model](https://drive.google.com/file/d/198xdKX893UYHc
 Download the [DeepSeek-VL2 Model](https://github.com/deepseek-ai/DeepSeek-VL2) to the current path.
 
 ## Testing
-For urban waterlogging assessment task, you can use the following command to test any image (replace your_test_image_path with the path to your test images):
+For urban flooding assessment task, you can use the following command to test any image (replace your_test_image_path with the path to your test images):
 ```shell
 python test.py --test_path your_test_image_path
 ```
