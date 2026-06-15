@@ -7,7 +7,7 @@ Datasets downloading URL:
 |-----|---------------|--------|
 | Roadway Flooding | https://data.mendeley.com/datasets/t395bwcvbw/1 | Open Access |
 | UWBenchV2 | https://github.com/zhang-chenxu/LSM-Adapter | Credentialed Access |
-| UW-Unlabeled | https://drive.google.com/file/d/1sesHHW_DixSt9vgalzJxZ_CJR7HZfW98/view?usp=drive_link | Open Access |
+| UW-Unlabeled | https://docs.google.com/forms/d/e/1FAIpQLScStVGKNFFzC9DS0mJvKd6crRdyiQzUo7x7LpfilAWtg74Qjw/viewform?usp=header | Open Access |
 
 ## Prepare datasets
 After downloading the above test dataset (Roadway Flooding and UWBenchV2) to /test_set/, please use the corresponding processing code in /dataset_preparation/ for it.
